@@ -1,6 +1,6 @@
 # ChatGPT has just passed one of my intro-to-linguistics assignments
 
-One of the assignments in my current intro to linguistics classes is to choose a article from a list of suggested papers from different subfields (phonetics, syntax, semantics, etc.), to critically read it, and to answer a few questions on it. The by far most popular choice is a paper by Labov titled "The social stratification of (r) in New York City department stores". Our students love sociolinguistics. This is an intro class and if there is basic understanding, the student will pass. 
+One of the assignments in my current intro to linguistics classes is to choose a article from a list of suggested papers from different subfields (phonetics, syntax, semantics, etc.), to critically read it, and to answer a few questions on it. The by far most popular choice is a paper by Labov titled [The social stratification of (r) in New York City department stores](http://archive.cunyhumanitiesalliance.org/ell101fall18/wp-content/uploads/sites/34/2018/10/The-Social-Stratification-of-r-in-NYC-Departments-Stores-Labov.pdf). Our students love sociolinguistics. This is an intro class and if there is basic understanding, the student will pass. 
 
 ## The assignment
 
@@ -18,7 +18,7 @@ Task 6 Results and Conclusion: Please describe in one or two sentences the paper
 Bonus Strengths and Weaknesses: Please describe one or two aspects of the paper that you see as its strengths (and briefly say why) and one or two aspects of the paper that you see as its weaknesses (and briefly say why).
 ```
 
-Being able to read a scientific paper and to answer those questions reasonably well is a valuable skill. And students do reasonably well on this task. In a conversation with a friend, the question arose how bots would do on this task. Do humans still outperform publicly available AI solutions, or have linguistics classroom reached the level of maths classroom, where tasks are given to hone the students' skills and understanding, but any calculator or computer can perform those tasks better? To put this to a test, I fed the Labov paper to chatGPT and had it answer the assignment. Below are chatGPT's replies. 
+Being able to read a scientific paper and to answer those questions reasonably well is a valuable skill. And students do reasonably well on this task. In a conversation with a friend, the question arose how bots would do on this task. Do humans still outperform publicly available AI solutions, or have linguistics classroom reached the level of maths classroom, where tasks are given to hone the students' skills and understanding, but any calculator or computer can perform those tasks better? To put this to a test, I fed the Labov paper to [ChatGPT](https://chat.openai.com/chat) and had it answer the assignment. You might have followed some of the [buzz](https://hbr.org/2022/12/chatgpt-and-how-ai-disrupts-industries) around ChatGPT. Below are ChatGPT's replies. 
 
 ## ChatGPT's replies
 
