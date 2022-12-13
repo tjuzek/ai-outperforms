@@ -45,4 +45,5 @@ Still, this is very impressive and not much worse than the human baseline of fir
 
 ### Notes
 
-I cannot publish Labov's paper for copyright reasons. Do message me for the text I have used. 
+- I cannot publish Labov's paper for copyright reasons. Do message me for the text I have used. 
+- ChatGPT chose the name to the repo and its description! 
