@@ -1,4 +1,4 @@
-# ChatGPT has just passed one of my intro-to-linguistics assignments. 
+# ChatGPT has just passed one of my intro-to-linguistics assignments
 
 One of the assignments in my current intro to linguistics classes is to choose a article from a list of suggested papers from different subfields (phonetics, syntax, semantics, etc.), to critically read it, and to answer a few questions on it. The by far most popular choice is a paper by Labov titled "The social stratification of (r) in New York City department stores". Our students love sociolinguistics. This is an intro class and if there is basic understanding, the student will pass. 
 
