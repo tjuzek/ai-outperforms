@@ -39,9 +39,9 @@ Bonus Strengths and Weaknesses: *One strength of the paper is its use of a syste
 
 ## Thoughts
 
-It feels a bit repetitive, but for this paper, there is overlap between the different questions, so that is also the case with the human baselines. ChatGPT's answers are really good, actually, and such a submission would have passed. I predefined targets, and the answer to Question 1 is too specific in my view. Here, some more abstraction about the link between social factors, i.e. socio-economic status, and the manner of speaking would be good. The same applies to Question 5: But how exactly is this done? The answer to the bonus question feels generic, and there is a factual error (Labov looked at three kinds of department stores), and one of the main issues is not addressed: The person hypothesising, doing the interviews, and evaluating the responses is the same, and there is no mechanism to exclude bias. 
+It feels a bit repetitive, but for this particular paper, there is overlap between the different questions (for other papers, there is less overlap), so that is also the case with the human baselines. ChatGPT's answers are really good actually, and such a submission would have received a pass, I think. I have predefined targets, and I can briefly discuss deviations. For one, the answer to Question 1 is too specific in my view. Here, some more abstraction about the link between social factors, i.e. socio-economic status, and the manner of speaking would be good. The same applies to Question 5: But how *exactly* is this done? Further, the answer to the bonus question feels generic, there is a factual error (Labov looked at three kinds of department stores), and one of the main issues is not addressed: The person hypothesising, doing the interviews, and evaluating the responses is the same, and there is no mechanism to exclude bias. 
 
-Still, this is very impressive and not (much) worse than the human baseline of first year undergrad students. The linguistic classroom might have reached its calculator moment. 
+Still, this is very impressive and not much worse than the human baseline of first year undergrad students. The linguistic classroom might have reached its calculator moment. 
 
 ### Notes
 
